@@ -1,4 +1,4 @@
-sliderGekode v 1
+#sliderGekode v 1
 
 it's simple horizzontal slider where you put inside every kind of elements you want.
 I ever allway spend a lot of time to found a slider where can put inside not only images but div and videos or more. But when I have found it difficult to used it and integrate with my html code because they usually use a jquery to create elements like arrows etc.
@@ -7,11 +7,11 @@ My aim is display and use the code into the page without add the new from jquery
 
 In that way it easy and quickly developing in html.
 
-HOW TO USE
+##HOW TO USE
 
 in slider.html there are three examples with different options and sizes.
 
-call the plugin:
+###call the plugin:
 
     <script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
     <script type="text/javascript" src="js/sliderGd.js"></script>
@@ -23,7 +23,7 @@ call the plugin:
         });
     </script>
 
-You have to use the same structure for all sliders with different id:
+###You have to use the same structure for all sliders with different id:
 
     <div id="NAME_SLIDER">
         <div class="navbar">
