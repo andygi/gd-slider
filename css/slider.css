@@ -1,0 +1,279 @@
+/* @group carousel-1 */
+
+#carousel-1 {
+	margin-top: 20px;
+}
+
+#carousel-1 .navbar {
+	background: #d9b468;
+	height: 45px;
+	border-bottom: 1px solid #f4fafa;
+}
+
+#carousel-1 .navbar p.copy{
+	text-align: center;
+	font-size: 21px;
+	color: #fff;
+}
+
+#carousel-1 .navbar .arrow{
+	color: #fff;
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	cursor: pointer;
+}
+
+#carousel-1 .navbar .arrow.lft{
+	background: url(../images/arrow-left.png) no-repeat center center;
+	float: left;
+	text-indent: -9999px;
+}
+
+#carousel-1 .navbar .arrow.rgt{
+	float: right;
+	margin-left: 905px;
+	background: url(../images/arrow-right.png) no-repeat center center;
+	text-indent: -9999px;
+}
+
+#carousel-1 .visual {
+	width: 950px;
+	height: 440px;
+	overflow: hidden;
+	background: #ffd478;
+	position: absolute;
+}
+
+
+#carousel-1 .box-item{
+	width: 237px;
+	height: 440px;
+	float: left;
+	border-right: 1px solid #f4fafa;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+
+#carousel-1 .box-item:hover {
+	background: #fefc78;
+}
+
+#carousel-1 .box-item img {
+	margin-top: 70px;
+}
+
+#carousel-1 .box-item h4 {
+	font-size: 19px;
+	padding-left: 25px;
+	position: absolute;
+	width: 190px;
+	line-height: 23px;
+}
+
+#carousel-1 .box-item p {
+	font-size: 15px;
+	margin-left: 25px;
+	line-height: 18px;
+	position: absolute;
+	margin-top: 115px;
+	width: 190px;
+}
+
+#carousel-1 .box-item.last {
+	border-right: none !important;
+}
+
+#carousel-1 .items {
+	position: absolute;
+}
+
+/* @end */
+
+/* @group carousel-2 */
+
+#carousel-2 {
+	margin-top: 20px;
+}
+
+#carousel-2 .navbar {
+	background: #3da7af;
+	height: 45px;
+	border-bottom: 1px solid #f4fafa;
+}
+
+#carousel-2 .navbar p.copy{
+	text-align: center;
+	font-size: 21px;
+	color: #fff;
+}
+
+#carousel-2 .navbar .arrow{
+	color: #fff;
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	cursor: pointer;
+}
+
+#carousel-2 .navbar .arrow.lft{
+	background: url(../images/arrow-left.png) no-repeat center center;
+	float: left;
+	text-indent: -9999px;
+}
+
+#carousel-2 .navbar .arrow.rgt{
+	float: right;
+	margin-left: 905px;
+	background: url(../images/arrow-right.png) no-repeat center center;
+	text-indent: -9999px;
+}
+
+#carousel-2 .visual {
+	width: 950px;
+	height: 440px;
+	overflow: hidden;
+	background: #3da7af;
+	position: absolute;
+}
+
+
+#carousel-2 .box-item{
+	width: 237px;
+	height: 440px;
+	float: left;
+	border-right: 1px solid #f4fafa;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+
+#carousel-2 .box-item:hover {
+	background: #77c1c7;
+}
+
+#carousel-2 .box-item img {
+	margin-top: 70px;
+}
+
+#carousel-2 .box-item h4 {
+	font-size: 19px;
+	padding-left: 25px;
+	position: absolute;
+	width: 190px;
+	line-height: 23px;
+}
+
+#carousel-2 .box-item p {
+	font-size: 15px;
+	margin-left: 25px;
+	line-height: 18px;
+	position: absolute;
+	margin-top: 115px;
+	width: 190px;
+}
+
+#carousel-2 .box-item.last {
+	border-right: none !important;
+}
+
+#carousel-2 .items {
+	position: absolute;
+}
+
+/* @end */
+
+/* @group carousel-3 */
+
+#carousel-3 {
+	margin-top: 20px;
+}
+
+#carousel-3 .navbar {
+	background: #68ad00;
+	height: 45px;
+	border-bottom: 1px solid #f4fafa;
+	width: 237px;
+}
+
+#carousel-3 .navbar p.copy{
+	text-align: center;
+	font-size: 21px;
+	color: #fff;
+}
+
+#carousel-3 .navbar .arrow{
+	color: #fff;
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	cursor: pointer;
+}
+
+#carousel-3 .navbar .arrow.lft{
+	background: url(../images/arrow-left.png) no-repeat center center;
+	float: left;
+	text-indent: -9999px;
+}
+
+#carousel-3 .navbar .arrow.rgt{
+	float: right;
+	margin-left: 200px;
+	background: url(../images/arrow-right.png) no-repeat center center;
+	text-indent: -9999px;
+}
+
+#carousel-3 .visual {
+	width: 237px;
+	height: 440px;
+	overflow: hidden;
+	background: #77d600;
+	position: absolute;
+}
+
+
+#carousel-3 .box-item{
+	width: 237px;
+	height: 440px;
+	float: left;
+	border-right: 1px solid #f4fafa;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+
+#carousel-3 .box-item:hover {
+	background: #bde79c;
+}
+
+#carousel-3 .box-item img {
+	margin-top: 70px;
+}
+
+#carousel-3 .box-item h4 {
+	font-size: 19px;
+	padding-left: 25px;
+	position: absolute;
+	width: 190px;
+	line-height: 23px;
+}
+
+#carousel-3 .box-item p {
+	font-size: 15px;
+	margin-left: 25px;
+	line-height: 18px;
+	position: absolute;
+	margin-top: 115px;
+	width: 190px;
+}
+
+#carousel-3 .box-item.last {
+	border-right: none !important;
+}
+
+#carousel-3 .items {
+	position: absolute;
+}
+
+/* @end */
